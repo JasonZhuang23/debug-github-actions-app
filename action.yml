@@ -1,6 +1,6 @@
-name: 'Helm Publisher tgzasjdkajksdasdasdasdasd'
+name: 'debug-github-actions-app'
 description: 'A GitHub Action for publishing Helm charts with Github Pages'
-author: 'Stefan Prodan'
+author: 'flyingpig-zzy'
 branding:
   icon: 'command'
   color: 'blue'
