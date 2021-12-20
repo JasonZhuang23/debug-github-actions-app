@@ -3,9 +3,9 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-20T06:55:32.922138244Z"
+    created: "2021-12-20T06:57:31.560857617Z"
     description: A Helm chart for Kubernetes
-    digest: 4de98b452f3ac1562bf5bcde56f5be6113427543dcb56985e3310e848d98fde1
+    digest: 6c6546fbeb075b1e688ee53322ca0e4d383815acd614247946a501fda114a970
     name: test
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   test1:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2021-12-20T06:55:32.922842349Z"
+    created: "2021-12-20T06:57:31.56131372Z"
     description: A Helm chart for Kubernetes
-    digest: ebfb43ddb82e09f6c45d46b872f98814e7e697f57fc338ed7d5a58fac23a699a
+    digest: 224abe7c7718204633528d955ac5ee12dcb7cd1dd2b3773ce47bbaf953b839f0
     name: test1
     type: application
     urls:
     - https://flyingpig-zzy.github.io/debug-github-actions-app/test1-0.2.0.tgz
     version: 0.2.0
-generated: "2021-12-20T06:55:32.921138535Z"
+generated: "2021-12-20T06:57:31.560197714Z"
