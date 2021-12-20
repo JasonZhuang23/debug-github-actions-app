@@ -6,7 +6,7 @@ branding:
   color: 'blue'
 inputs:
   token:
-    description: "GitHub token"
+    description: "GitHub token 1"
     required: true
   charts_dir:
     description: "The charts directory, defaults to `charts`"
